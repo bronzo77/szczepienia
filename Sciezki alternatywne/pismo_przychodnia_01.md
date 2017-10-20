@@ -16,6 +16,7 @@ W trakcie prac. Można korzystać już teraz, a kolejne wersje wysyłać ewentua
 2. Osób, które otrzymują od świadczeniodawcy tzw. oświadczenia o odmowie szczepień, w których jest napisane, że pacjent został poinformowany o skutkach i bezpieczeństwie szczepień
 3. Inne osoby, które w jakiś sposób chcą się zabezpieczyć przed lekkomyślnym działaniem świadczeniodawcy usług medycznych.
 4. Inne osoby, które chcą wykorzystać tą wiedzę w postępowaniu karnym wobec lekarza.
+5. Osób, które zostały poinformowane przez lekarza o obowiązku szczepień.
 
 ## Jaki jest cel tego pisma?
 1. Pozyskanie od lekarza wiedzy przed szczepieniem
@@ -69,6 +70,9 @@ Jako całość na pewno nie. Pismo jest skierowane do lekarza - profesjonalisty.
 1. Odpowiedź na pismo lub jej brak do wykorzystania w ["algorytmie wygrywającym w sprawie szczepień"](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_xx1.md) 
 2. Brak odpowiedzi, odpowiedź ustna czy wymijająca powinna wszczynać procedurę wyjaśniającą. W skrócie: "*nie odpowiem na te pytania*" - "*proszę podpisać zatem oświadczenie o nie wyrażeniu zgody na odpowiedzi na te pytania*".
 3. Każdą odpowiedź organu należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/). Znajdują się tam również komentarze i historia dokumentu.
+
+## Czy odpowiedź lekarza może być uznana za opinię lekarską?
+Tak. W związku z tą odpowiedzią lub zarejestrowanym stanowiskiem lekarza, przysługuje nam odwołanie. Więcej [o prawie do zgłoszenia sprzeciwu tutaj.](https://www.bpp.gov.pl/dla-pacjenta/prawa-pacjenta/prawo-do-zgloszenia-sprzeciwu-wobec-opinii-orzeczenia-lekarza/)
 
 ## Jaka jest historia tego pisma?
 {{do ustalenia/sprostowania/uzupełnienia}}Każdy kto zgłębia temat bezpieczeństwa i skuteczności szczepień na pewno zetknął się z licznymi zbiorami pytań, które zwykle niestety pozostają bez odpowiedzi. Świadomi rodzice powinni znać odpowiedzi na wszystkie pytania dotyczące zdrowia ich dziecka. W przypadku Polski świetny zbiór pytań opracowała Pani prof. dr hab. Maria Dorota Majewska [dostępny na stronie FB - Stowarzyszenia Stop NOP](https://www.facebook.com/stowarzyszeniestopnop/photos/pb.206336526060450.-2207520000.1412159065./874667189227377/) {{przydała by się historia tego postu}}. Zdecydowanie warto polecić inne prace Pani profesor w dziedzinie bezpieczeństwa szczepionek. Lista podobnie ogólnych pytań została utworzona przez dr Jerzego Jaśkowskiego i dostępna jest [m.in. tutaj](http://www.polishclub.org/2015/02/08/dr-jerzy-jaskowski-oczko-pytania-na-ktore-pediatrzy-nie-udzielaja-odpowiedzi/). Równie zdecydowanie warto polecić zapoznanie się z pozostałymi opracowaniami dra Jaśkowskiego, ponieważ zwracają one uwagę na rozliczne zagadnienia, traktują problem szczepień wieloaspektowo i są napisane żywym językiem, tak różnym od reklamowej nowomowy, typowej dla wypowiedzi przypadkowych ludzi fanatycznie wierzacych w "magiczną moc" ochronną szczepionek. Dr Jerzy Jaśkowski opracował również listę pytań, która będzie najbardziej interesująca z prawnego punktu widzenia, ponieważ są to [pytania do wykorzystania bezpośrednio w rozmowie z pediatrą](http://www.klubinteligencjipolskiej.pl/2015/12/dr-j-jaskowski-alfabet-szczepien-czyli-jak-dyskutowac-z-pediatra-szczepionkowcem/). Te pytania są doskonale osadzone w kontekście badania kwalifikacyjnego poprzedzającego szczepienie. Bez tych dwóch osób tego dokumentu by nie było.
@@ -141,3 +145,6 @@ W tym poście znajdują się również instrukcje i wskazówki oraz warto zajrze
 
 ## Czy mogę nagrywać rozmowy z lekarzem?
 Krótka odpowiedź - TAK. Dłuższa - trzeba wiedzieć jak można wykorzystać nagranie a jak nie można oraz co jeszcze trzeba zrobić aby sąd mógł uznać to za wiarygodny dowód w ewentualnej sprawie. Więcej w [tym artykule](http://www.lekarziprawo.pl/pacjent-moze-nagrac-rozmowe-z-lekarzem-i-wykorzystac-ja-w-sadzie/)
+
+## Czy są inne czynności/działania, na które warto zwrócić uwagę przed szczepieniem?
+Przydatna lista takich czynności/działań znajduje się [w tym fragmencie tłumaczenia](https://www.facebook.com/MichalBgd/posts/218636865314260) książki poświęconej temu zagadnienu. Więcej szczegółów tamże.
